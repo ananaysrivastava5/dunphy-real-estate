@@ -14,8 +14,9 @@ SECRET_KEY = '-#^1o!7z4jpx8%$0j+&tw6o#0!3=0a%p5rd=5$_h8$@d!47er@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dunphyrealestate.herokuapp.com', '127.0.0.1']
+#ALLOWED_HOSTS = ['dunphyrealestate.herokuapp.com', '127.0.0.1']
 
+ALLOWED_HOSTS = []
 
 # Application definition
 
